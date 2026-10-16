@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ux-ui",
+    "description": "Design user flows, screens, interaction states and accessibility for new or changed UI.",
+    "readOnly": false
+  },
+  {
+    "id": "frontend",
+    "description": "Implement React or Next.js frontend changes against agreed UX and API contracts.",
+    "readOnly": false
+  },
+  {
+    "id": "backend",
+    "description": "Implement the project's selected .NET or NestJS backend, API and data rules.",
+    "readOnly": false
+  },
+  {
+    "id": "reviewer",
+    "description": "Independently inspect a named code change for correctness, regressions and missing tests.",
+    "readOnly": true
+  },
+  {
+    "id": "qa",
+    "description": "Verify acceptance criteria, reproduce defects and report actual test evidence.",
+    "readOnly": false
+  },
+  {
+    "id": "security",
+    "description": "Inspect sensitive designs and code for security risks; report evidence and remediation.",
+    "readOnly": true
+  },
+  {
+    "id": "documentation",
+    "description": "Update feature guides, technical notes and draft release summaries from verified changes.",
+    "readOnly": false
+  }
+]
